@@ -134,8 +134,7 @@ body
 
 .pad-1
 {
-    margin-top: 27px;
-    margin-bottom: 27px;
+    margin-top: 18px;
 }
 
 .tex1pad
@@ -143,29 +142,5 @@ body
     margin-bottom: 0px;
     padding-top: 0px;
     margin-top: -8px;
-}
-
-.arb1
-{
-}
-
-.mm
-{
-    margin-left: 17px;
-}
-
-.m
-{
-    margin-left: 19px;
-}
-
-.mb
-{
-    margin-left: 0px;
-}
-
-.bbb
-{
-    margin-top: 8px;
 }
 
